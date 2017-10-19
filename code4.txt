@@ -1,1 +1,4 @@
+from django.http import HttpResponse
 print('123')
+def view(request):
+    return HttpResponse("helllo")
