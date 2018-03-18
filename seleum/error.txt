@@ -1,0 +1,24 @@
+list index out of range201803-Shanxi
+201803-Anhui
+201803-Zhejiang
+201803-Guangxi
+201803-Guizhou
+201803-Hainan
+201803-Henan
+201803-Hubei
+201803-Hunan
+201803-Heilongjiang
+201803-Jilin
+201803-Liaoning
+201803-Gansu
+201803-Neimenggu
+201803-Ningxia
+201803-Shaanxi
+201803-Xinjiang
+201803-Chongqing
+201803-Sichuan
+201803-Xizang
+Message: unknown error: Element is not clickable at point (148, 385). Other element would receive the click: <table width="100%">...</table>
+  (Session info: chrome=50.0.2661.102)
+  (Driver info: chromedriver=2.22.397932 (282ed7cf89cf0053b6542e0d0f039d4123bbb6ad),platform=Linux 4.4.0-31-generic x86_64)
+201803-Beijing
